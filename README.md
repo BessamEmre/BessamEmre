@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BessamEmre
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Python and Flutter
+- 🌱 I’m currently learning React Native and Flutter
 - 📫 How to reach me emrebessam39@gmail.com
 
 <!---
